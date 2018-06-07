@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ActorComponentReference",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Grouflon",
+	"CreatedByURL": "https://github.com/Grouflon/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"Modules": [
+    {
+      "Name": "ActorComponentReferenceRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+			"Name": "ActorComponentReferenceEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
